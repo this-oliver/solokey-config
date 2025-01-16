@@ -42,9 +42,11 @@ solo1 key update
 solo2 update
 ```
 
-Setting a key pin (*solo1 cli also works for solo2*):
+Setting a key pin (*solo1 cli also works for solo2 [^1]*):
 
 ```bash
 # Solo1 cli
 solo1 key set-pin
 ```
+
+[^1]:https://221b.uk/how-to-set-a-pin-on-solokey-v2
